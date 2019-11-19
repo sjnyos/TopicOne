@@ -23,25 +23,26 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
         <RadioButton
-            android:id="@+id/add"
+            android:id="@+id/rdoadd"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Add"
             android:textSize="20sp"/>
         <RadioButton
-            android:id="@+id/substract"
+            android:id="@+id/rdosubstract"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Substarct"
             android:textSize="20sp"/>
         <RadioButton
-            android:id="@+id/multiply"
+            android:id="@+id/rdomultiply"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Multiply"
             android:textSize="20sp"/>
     </RadioGroup>
     <Button
+
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnResult"
