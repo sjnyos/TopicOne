@@ -7,13 +7,17 @@ import android.content.DialogInterface;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.RadioButton;
+import android.widget.Spinner;
 import android.widget.Toast;
 
 public class imageViewActivity extends AppCompatActivity implements View.OnClickListener {
     private ImageView ivPhoto;
     private RadioButton rdoironman, rdospiderman, rdomarvel;
+    private Spinner spinnerone;
     AlertDialog.Builder alertBuilder;
 
     @Override
@@ -27,9 +31,27 @@ public class imageViewActivity extends AppCompatActivity implements View.OnClick
         rdoironman = findViewById(R.id.rdoironman);
         rdospiderman = findViewById(R.id.rdospiderman);
 
+        spinnerone = findViewById(R.id.spinnerone);
+        String[] data = {"ranjit","susan","raziv","suraj","nimesh","dilli"};
+        ArrayAdapter adapter =  new ArrayAdapter<>(this,android.R.layout.simple_list_item_1,data);
+        spinnerone.setAdapter(adapter);
+
         rdoironman.setOnClickListener(this);
         rdospiderman.setOnClickListener(this);
         rdomarvel.setOnClickListener(this);
+
+
+        spinnerone.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                Toast.makeText(imageViewActivity.this,spinnerone.getSelectedItem().toString(),Toast.LENGTH_LONG).show();
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+
+            }
+        });
     }
 
     @Override

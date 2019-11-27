@@ -7,6 +7,17 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <TextView
+        android:id="@+id/tvsometext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select country"
+        android:textSize="20sp" />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerone"/>
+
     <RadioGroup
 
         android:id="@+id/rdogrp"
@@ -29,11 +40,13 @@
             android:text="Marvel"
             />
     </RadioGroup>
+
     <ImageView
         android:id="@+id/ivPhoto"
         android:src="@drawable/ironman"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+
 
 
 </LinearLayout>

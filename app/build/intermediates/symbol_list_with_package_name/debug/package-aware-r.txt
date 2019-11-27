@@ -837,6 +837,7 @@ id showCustom
 id showHome
 id showTitle
 id spacer
+id spinnerone
 id split_action_bar
 id spread
 id spread_inside
@@ -868,6 +869,7 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id tvsometext
 id unchecked
 id uniform
 id up
