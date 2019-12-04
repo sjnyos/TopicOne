@@ -4,7 +4,6 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.DialogInterface;
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -65,7 +64,7 @@ public class imageViewActivity extends AppCompatActivity implements View.OnClick
                 alertBox(R.drawable.sipderman);
                 break;
             case R.id.rdomarvel:
-                alertBox(R.drawable.captain);
+                alertBox(R.drawable.marvel);
                 break;
         }
 
