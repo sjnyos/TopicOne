@@ -68,6 +68,10 @@
         "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_activity_dictionary.xml.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_dictionary.xml"
+    },
+    {
         "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
         "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_main.xml"
     },
