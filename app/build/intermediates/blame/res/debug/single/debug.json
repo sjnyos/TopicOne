@@ -1,15 +1,11 @@
 [
     {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_activity_details.xml.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_details.xml"
     },
     {
         "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_activity_constraint_layout_test.xml.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_constraint_layout_test.xml"
     },
     {
         "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
@@ -20,44 +16,12 @@
         "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/drawable_sipderman.jpg.flat",
         "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/drawable/sipderman.jpg"
     },
     {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/drawable_ironman.jpg.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/drawable/ironman.jpg"
-    },
-    {
         "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_activity_image_view.xml.flat",
         "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_image_view.xml"
-    },
-    {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/drawable_marvel.jpg.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/drawable/marvel.jpg"
-    },
-    {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
@@ -72,20 +36,76 @@
         "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_dictionary.xml"
     },
     {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_activity_recycler.xml.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_recycler.xml"
-    },
-    {
         "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
         "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_fragment_first.xml.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_activity_constraint_layout_test.xml.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_constraint_layout_test.xml"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_activity_tab_layout.xml.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_tab_layout.xml"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/drawable_ironman.jpg.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/drawable/ironman.jpg"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/drawable_marvel.jpg.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/drawable/marvel.jpg"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_fragment_second.xml.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_activity_recycler.xml.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_recycler.xml"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_activity_main_fragement.xml.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/activity_main_fragement.xml"
     },
     {
         "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/layout_layout_contacts.xml.flat",
         "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/layout/layout_contacts.xml"
+    },
+    {
+        "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/home/sdjkr/AndroidStudioProjects/TopicOne/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",

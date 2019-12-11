@@ -1,9 +1,13 @@
 package com.machamasisuraj.topicone;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.LinearLayoutCompat;
+import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
+import android.graphics.drawable.GradientDrawable;
 import android.os.Bundle;
 
 import java.util.ArrayList;

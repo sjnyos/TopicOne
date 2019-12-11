@@ -11,7 +11,7 @@
 9-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:5:5-25:19
+11-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:5:5-27:19
 12        android:allowBackup="true"
 12-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,9 +28,9 @@
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
 20-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:11:9-40
-21        <activity android:name="com.machamasisuraj.topicone.RecyclerActivity" >
+21        <activity android:name="com.machamasisuraj.topicone.TabLayoutActivity" >
 21-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:12:9-18:20
-21-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:12:19-51
+21-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:12:19-52
 22            <intent-filter>
 22-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:13:13-17:29
 23                <action android:name="android.intent.action.MAIN" />
@@ -42,19 +42,28 @@
 25-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:16:27-74
 26            </intent-filter>
 27        </activity>
-28        <activity android:name="com.machamasisuraj.topicone.DictionaryActivity" >
-28-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:19:9-21:20
-28-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:19:19-53
+28        <activity android:name="com.machamasisuraj.topicone.MainFragementActivity" >
+28-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:19:9-20:20
+28-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:19:19-56
 29        </activity>
-30        <activity android:name="com.machamasisuraj.topicone.ConstraintLayoutTestActivity" />
-30-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:22:9-66
-30-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:22:19-63
-31        <activity android:name="com.machamasisuraj.topicone.imageViewActivity" />
-31-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:23:9-64
-31-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:23:19-52
-32        <activity android:name="com.machamasisuraj.topicone.MainActivity" />
-32-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:24:9-50
-32-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:24:19-47
-33    </application>
-34
-35</manifest>
+30        <activity android:name="com.machamasisuraj.topicone.detailsActivity" />
+30-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:21:9-53
+30-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:21:19-50
+31        <activity android:name="com.machamasisuraj.topicone.RecyclerActivity" />
+31-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:22:9-54
+31-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:22:19-51
+32        <activity android:name="com.machamasisuraj.topicone.DictionaryActivity" />
+32-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:23:9-56
+32-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:23:19-53
+33        <activity android:name="com.machamasisuraj.topicone.ConstraintLayoutTestActivity" />
+33-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:24:9-66
+33-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:24:19-63
+34        <activity android:name="com.machamasisuraj.topicone.imageViewActivity" />
+34-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:25:9-55
+34-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:25:19-52
+35        <activity android:name="com.machamasisuraj.topicone.MainActivity" />
+35-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:26:9-50
+35-->/home/sdjkr/AndroidStudioProjects/TopicOne/app/src/main/AndroidManifest.xml:26:19-47
+36    </application>
+37
+38</manifest>

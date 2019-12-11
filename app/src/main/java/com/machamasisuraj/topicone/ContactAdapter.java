@@ -1,6 +1,7 @@
 package com.machamasisuraj.topicone;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,6 +12,8 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.List;
+
+import de.hdodenhof.circleimageview.CircleImageView;
 
 public class ContactAdapter   extends RecyclerView.Adapter<ContactAdapter.ContactViewHolder>{
     Context mContext;
@@ -30,10 +33,21 @@ public class ContactAdapter   extends RecyclerView.Adapter<ContactAdapter.Contac
 
     @Override
     public void onBindViewHolder(@NonNull ContactViewHolder holder, int position) {
-        Contacts contacts =  lstContacts.get(position);
+        final Contacts contacts =  lstContacts.get(position);
         holder.img_profile.setImageResource(contacts.getImageId());
         holder.tv_contactname.setText(contacts.getName());
         holder.tv_phonenumber.setText(contacts.getPhoneNo());
+
+        holder.img_profile.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(mContext,detailsActivity.class);
+                i.putExtra("imageid",contacts.getImageId());
+                i.putExtra("name",contacts.getName());
+                i.putExtra("num",contacts.getPhoneNo());
+                mContext.startActivity(i);
+            }
+        });
     }
 
     @Override
@@ -43,7 +57,7 @@ public class ContactAdapter   extends RecyclerView.Adapter<ContactAdapter.Contac
 
     //innerclass
     public class ContactViewHolder extends RecyclerView.ViewHolder{
-        ImageView img_profile;
+        CircleImageView img_profile;
         TextView tv_contactname, tv_phonenumber;
 
         public ContactViewHolder(@NonNull View itemView) {
